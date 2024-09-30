@@ -20,7 +20,7 @@ const ContactPage = () => {
             <div className="ml-4">
               <h3 className="font-semibold text-2xl py-4">ADDRESS</h3>
               <p className="text-[#71717A]">
-                60/850 Đường Láng, Láng Thượng, Đống Đa, Hà Nội
+                Fpt polytechnic Trịnh Văn Bô 
               </p>
             </div>
           </div>

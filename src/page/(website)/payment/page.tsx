@@ -46,8 +46,8 @@ const PaymentPage = () => {
             <div className="p-2 border border-solid border-neutral-300 mt-2">
               <select name="province" id className="block w-full  ">
                 <option value className="hidden">Choose Your Province</option>
-                <option value="vietnam">Viet Nam</option>
-                <option value="america">America</option>
+                <option value="vietnam">Thai Bình</option>
+                <option value="america">Hà Nội</option>
               </select>
             </div>
           </div>
