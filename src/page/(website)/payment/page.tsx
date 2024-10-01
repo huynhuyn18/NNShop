@@ -44,8 +44,8 @@ const PaymentPage = () => {
           <div className="mt-8">
             <label htmlFor="province" className="font-medium">Tỉnh</label>
             <div className="p-2 border border-solid border-neutral-300 mt-2">
-              <select name="province" id className="block w-full  ">
-                <option value className="hidden">Choose Your Province</option>
+              <select name="province" id="" className="block w-full  ">
+                <option value="" className="hidden">Choose Your Province</option>
                 <option value="vietnam">Thai Bình</option>
                 <option value="america">Hà Nội</option>
               </select>

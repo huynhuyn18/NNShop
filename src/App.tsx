@@ -12,6 +12,7 @@ import Detail from "./page/detail/page";
 import CartPage from "./page/(website)/cart/page";
 import PaymentPage from "./page/(website)/payment/page";
 import ContactPage from "./page/(website)/contact/page";
+import AdminProductsPage from "./page/(admin)/product/page";
 
 function App() {
     return (
@@ -30,14 +31,12 @@ function App() {
 
 
 
-
-
-                  
-
                 </Route>
                 <Route path="admin" element={<LayoutAdmin />}>
                     <Route index element={<Navigate to="dashboard" />} />
                     <Route path="dashboard" element={<DashboardPage />} />
+                    <Route path="products" element={<AdminProductsPage />} />
+
                 </Route>
                 <Route path="*" element={<NotFoundPage />} />
             </Routes>

@@ -25,7 +25,7 @@ const Shop = () => {
       <div className="grid grid-cols-3 gap-8">
         <div>
           <div className="overflow-hidden">
-            <img src="https://3.pik.vn/2020cb482aa9-79bc-402c-a5ed-dcaa321f7ddd.png" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://3.pik.vn/2020cb482aa9-79bc-402c-a5ed-dcaa321f7ddd.png" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Syltherine</h3>
@@ -36,7 +36,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://st.quantrimang.com/photos/image/2022/09/13/Meo-khoc-20.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://st.quantrimang.com/photos/image/2022/09/13/Meo-khoc-20.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Leviosa</h3>
@@ -47,7 +47,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://blogchiasekienthuc.com/wp-content/uploads/2022/11/anh-meme-meo-hai-huoc-de-thuong-16.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://blogchiasekienthuc.com/wp-content/uploads/2022/11/anh-meme-meo-hai-huoc-de-thuong-16.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Lolito</h3>
@@ -58,7 +58,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://kynguyenlamdep.com/wp-content/uploads/2022/08/meme-meo-ciu-ciu.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://kynguyenlamdep.com/wp-content/uploads/2022/08/meme-meo-ciu-ciu.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Respira</h3>
@@ -69,7 +69,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://kynguyenlamdep.com/wp-content/uploads/2022/08/meme-meo-cho-mieng.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://kynguyenlamdep.com/wp-content/uploads/2022/08/meme-meo-cho-mieng.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Syltherine</h3>
@@ -80,7 +80,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/anh-meo-che-anh-meo-bua-24-31-09-22-09.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/anh-meo-che-anh-meo-bua-24-31-09-22-09.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Leviosa</h3>
@@ -91,7 +91,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://khoinguonsangtao.vn/wp-content/uploads/2022/08/anh-meme-meo-cute-dang-yeu.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://khoinguonsangtao.vn/wp-content/uploads/2022/08/anh-meme-meo-cute-dang-yeu.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Lolito</h3>
@@ -102,7 +102,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://devo.vn/wp-content/uploads/2023/01/xien-chet-ba-may-gio.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://devo.vn/wp-content/uploads/2023/01/xien-chet-ba-may-gio.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Respira</h3>
@@ -113,7 +113,7 @@ const Shop = () => {
         </div>
         <div>
           <div className="overflow-hidden">
-            <img src="https://demoda.vn/wp-content/uploads/2022/01/anh-meo-de-thuong-1.jpg" alt className="hover:scale-125 duration-1000 " />
+            <img src="https://demoda.vn/wp-content/uploads/2022/01/anh-meo-de-thuong-1.jpg" alt="" className="hover:scale-125 duration-1000 " />
           </div>
           <div className="bg-[#F5F5F5] p-4">
             <h3 className="font-semibold text-xl">Syltherine</h3>
@@ -125,10 +125,10 @@ const Shop = () => {
       </div>
       {/*End product*/}
       <div className="mt-8">
-        <Link to="" className="py-2 px-4 bg-yellow-600 inline-block text-white font-bold rounded-md">1</Link>
-        <Link to="" className="py-2 px-4 bg-[#A3A3A3] inline-block text-white font-bold rounded-md">2</Link>
-        <Link to="" className="py-2 px-4 bg-[#A3A3A3] inline-block text-white font-bold rounded-md">3</Link>
-        <Link to="" className="py-2 px-4 bg-[#A3A3A3] inline-block text-white font-bold rounded-md">Next</Link>
+        <Link to="" className="mr-3 py-2 px-4 bg-yellow-600 inline-block text-white font-bold rounded-md">1</Link>
+        <Link to="" className="mr-3 py-2 px-4 bg-[#A3A3A3] inline-block text-white font-bold rounded-md">2</Link>
+        <Link to="" className="mr-3 py-2 px-4 bg-[#A3A3A3] inline-block text-white font-bold rounded-md">3</Link>
+        <Link to="" className="py-3 px-4 bg-[#A3A3A3] inline-block text-white font-bold rounded-md">Next</Link>
       </div>
       {/*End Pagination*/}
     </div>
